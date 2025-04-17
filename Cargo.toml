@@ -1,0 +1,12 @@
+[package]
+name = "dithering"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+color = "0.2.2"
+image = "0.25.5"
+serde_json = "1.0.135"
+slicemath = "0.1.0"
+u = "0.2.0"
+vecmath = "1.0.0"
